@@ -6,7 +6,7 @@
   <img src="./assets/madara-4k.jpg" width="100%" alt="Madara Uchiha 4K Banner" />
 </div>
 
-<h1 align="center">⚔️ SHIVRAJ // UCHIHA MODE ⚔️</h1>
+<h1 align="center">HELLO IM SHIVRAJ </h1>
 <h3 align="center">Wake up to reality... and start coding.</h3>
 
 <div align="center">
@@ -28,7 +28,6 @@
 ```bash
 > Name      : Shivraj Bhatt
 > Username  : SHIVRAJ-BHATT
-> Mode      : Uchiha
 > Status    : I am not beginner
 > Mission   : Build, learn, dominate
-> Aura      : Anime aesthetic + coding grind
+
