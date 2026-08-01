@@ -3,20 +3,19 @@
 
 Email Me 👉 ✉️ **Astarothx077@gmail.com* For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on nothing:** Enter your project info here
-- 🌱 **I’m currently learning python:** Enter your tech here
-- 👯 **I’m looking to collaborate on:** Enter your project name and info
-- 🤔 **I’m looking for help with:** Your project here
-- 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **How to reach me:** Enter your email here
-- 😄 **Pronouns:** Imran Sir
-- ⚡ **Fun fact:** I Love Tech and Tech Love Me
+- 🔭 **I’m currently working on:**
+- 🌱 **I’m currently learning python:** 
+- 👯 **I’m looking to collaborate on:** 
+- 🤔 **I’m looking for help with:** 
+- 💬 **Ask me about:** 
+- 📫 **How to reach me:** 
+- ⚡ **Fun fact:**
 
 ## 🔗 I am a Content Creator. 😊😊
 
 Stay updated with the latest tutorials and projects by subscribing to my YouTube channel and following on Instagram, Facebook and Twitter.
 
-[![Shivraj Bhatt YouTube Channel](https://img.shields.io/badge/YouTube-Techno%20Snag-red?logo=youtube&logoColor=white)](https://www.youtube.com/technosnag) [![Shivraj Bhatt Instagram](https://img.shields.io/badge/Instagram-Techno%20Snag-pink?logo=instagram&logoColor=white)](https://www.instagram.com/Shivraj_bhatt_001) 
+[![Shivraj Bhatt YouTube Channel](https://img.shields.io/badge/YouTube-Shivraj%20Bhatt-red?logo=youtube&logoColor=white)](https://www.youtube.com/Shivraj_Bhatt)  [![Shivraj Bhatt Instagram](https://img.shields.io/badge/Instagram-Shivraj%20Bhatt-pink?logo=instagram&logoColor=white)](https://www.instagram.com/Shivraj_bhatt_001) 
 
 [![](https://visitcount.itsvg.in/api?id=alamimran613&icon=1&color=4)](https://visitcount.itsvg.in)
 
@@ -38,7 +37,7 @@ Stay updated with the latest tutorials and projects by subscribing to my YouTube
 ![](https://github-readme-streak-stats.herokuapp.com/?user=alamimran613&theme=dark&hide_border=false)
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Shivraj_Bhatt_001) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@technosnag) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Shivraj_Bhatt_001) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Shivraj_Bhatt) 
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
